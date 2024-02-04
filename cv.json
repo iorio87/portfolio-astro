@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Luciano Petrate",
-      "label": "Programmer",
+      "label": "JavaScript Programmer",
       "image": "https://avatars.githubusercontent.com/u/48264590?v=4",
       "email": "lucianopetrate@gmail.com",
       "phone": "(912) 555-4321",
@@ -15,10 +15,21 @@
         "region": "Buenos Aires"
       },
       "profiles": [{
-        "network": "Twitter",
+        "network": "X",
         "username": "john",
         "url": "https://twitter.com/john"
-      }]
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Luciano Petrate",
+        "url": "https://linkedin.com/john"
+      },
+      {
+        "network": "GitHub",
+        "username": "Luciano Petrate",
+        "url": "https://linkedin.com/john"
+      }
+    ]
     },
     "work": [{
       "name": "Company",
