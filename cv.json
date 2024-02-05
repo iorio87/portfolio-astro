@@ -32,12 +32,30 @@
   },
   "work": [
     {
-      "name": "Company",
+      "name": "Microsoft",
       "position": "President",
       "url": "https://company.com",
       "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "endDate": "2017-12-01",
+      "summary": "Le compre a un tal Bill Gates su sistema operativo...",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Google",
+      "position": "CEO",
+      "url": "https://company.com",
+      "startDate": "2018-01-01",
+      "endDate": "2020-12-01",
+      "summary": "LLegue y cree a Bard",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Apple",
+      "position": "Owner",
+      "url": "https://company.com",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Creador del IPhone",
       "highlights": ["Started the company"]
     }
   ],
