@@ -72,13 +72,33 @@
   ],
   "education": [
     {
-      "institution": "University",
+      "institution": "Soy Henry",
       "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
+      "area": "FullStack Developer",
+      "studyType": "Bootcamp",
+      "startDate": "2022-02-01",
+      "endDate": "2022-10-01",
+      "score": "9.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "IRSO",
+      "url": "https://institution.com/",
+      "area": "Tecnicatura en Sistemas",
+      "studyType": "Tecnicatura",
+      "startDate": "2019-01-01",
+      "endDate": "2021-12-01",
+      "score": "8.0", 
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "UBA",
+      "url": "https://institution.com/",
+      "area": "Administracion de Empresa",
+      "studyType": "Licenciatura",
+      "startDate": "2006-01-01",
+      "endDate": "2016-10-01",
+      "score": "6.0",
       "courses": ["DB1101 - Basic SQL"]
     }
   ],
