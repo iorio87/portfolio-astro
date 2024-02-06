@@ -129,9 +129,32 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Javascript",
+      "level": "Master"
+    },
+    {
+      "name": "HTML",
+      "level": "Master"
+    },
+    {
+      "name": "CSS",
+      "level": "Master"
+    },
+    {
+      "name": "Python",
+      "level": "Master"
+    },
+    {
+      "name": "React",
+      "level": "Master"
+    },
+    {
+      "name": "Astro",
+      "level": "Master"
+    },
+    {
+      "name": "Next.js",
+      "level": "Master"
     }
   ],
   "languages": [
