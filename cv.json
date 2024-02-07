@@ -177,11 +177,21 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
+      "name": "Vinos",      
+      "description": "E-comerce que simula una vinoteca",
+      "highlights": ["carrito funcional", "recepcion de mail de confirmacio", "newsletter"],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "VideoGames",      
+      "description": "Proyecto de videojuegos, donde se pueden ver y agregar juegos",
+      "highlights": ["agrega nuevos juegos", "filtro", "informacion completa"],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "MemoTest",      
+      "description": "Juego de MemoTest",
+      "highlights": ["creacion maestra", "nunca visto", "mejor proyecto del mundo"],
       "url": "https://project.com/"
     }
   ]
