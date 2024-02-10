@@ -15,6 +15,11 @@ const SOCIAL_ICONS: SocialIcon = {
   LinkedIn,
   X,
 };
+
+const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
+const linkedUrl = linkedInfo?.url;
+
+const printInfo = [email, linkedUrl].filter(Boolean).join(" | ");
 ---
 
 <Section>
@@ -27,6 +32,12 @@ const SOCIAL_ICONS: SocialIcon = {
         {city}, {region}
       </span>
       <footer>
+  <div class="print">
+          {email} | {linkedUrl}
+           </div>
+      </footer>
+      <footer class="no-print">
+      
         {
           email && (
             <a
@@ -107,6 +118,8 @@ const SOCIAL_ICONS: SocialIcon = {
   }
 
   footer {
+    color: #555;
+    font-size: 0.65rem;
     display: flex;
     gap: 4px;
     align-items: center;
